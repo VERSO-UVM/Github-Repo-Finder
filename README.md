@@ -137,6 +137,30 @@ python repofinder/main_analysis_combined.py
 
 All plots are saved in the `plots/combined/` directory.
 
+## Local Web Dashboard
+
+A self-contained HTML dashboard can be generated from any scraped database. It requires no server — the output is a single HTML file that opens directly in your browser.
+
+Run the dashboard generator after scraping:
+```sh
+python dashboard.py [ACRONYM]
+```
+
+For example:
+```sh
+python dashboard.py UVM
+```
+
+This reads `Data/db/repository_data_{ACRONYM}_database.db`, generates `dashboard_{ACRONYM}.html`, and opens it automatically in your browser.
+
+The dashboard includes:
+- **Summary stats** — total repositories, stars, forks, and unique languages
+- **Language distribution** — doughnut chart of primary languages used
+- **License distribution** — doughnut chart of license types
+- **Community feature adoption** — horizontal bar chart showing the percentage of repositories with a README, license, code of conduct, contributing guide, security policy, issue templates, and PR template
+- **Star count histogram** — distribution of repositories by star count
+- **Repository explorer** — searchable, sortable table of up to 500 repositories with per-repo feature badges
+
 
 
 

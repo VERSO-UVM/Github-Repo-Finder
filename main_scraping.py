@@ -84,7 +84,7 @@ def scrape(university_acronyms=["UCSB", "UCSC", "UCSD"]):
         print('Contributors done')
 
 if __name__ == "__main__":
-    scrape()
+    scrape(["UVM"])
 
 
 

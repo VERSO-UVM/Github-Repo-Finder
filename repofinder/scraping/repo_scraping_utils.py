@@ -76,13 +76,26 @@ def github_api_request(url, headers, params=None, rate_limiter=None):
             elif response.status_code == 404:
                 logger.warning(f"Resource not found: {url}. Exiting without retry.")
                 return None, None
-            elif response.status_code == 403 and 'X-RateLimit-Remaining' in response.headers:
-                if response.headers['X-RateLimit-Remaining'] == '0':
+            elif response.status_code == 403:
+                retry_after = response.headers.get('Retry-After')
+                if retry_after:
+                    sleep_time = int(retry_after) + 1
+                    logger.warning(f"Secondary rate limit (Retry-After). Sleeping for {sleep_time} seconds.")
+                    time.sleep(sleep_time)
+                    continue
+                remaining = response.headers.get('X-RateLimit-Remaining', '1')
+                if remaining == '0':
                     reset_time = int(response.headers.get('X-RateLimit-Reset', time.time()))
                     sleep_time = max(reset_time - int(time.time()), 1)
                     logger.warning(f"Rate limit exceeded. Sleeping for {sleep_time} seconds.")
                     time.sleep(sleep_time)
-                    continue  # Retry after sleeping
+                    continue  # Retry after sleeping — don't count against MAX_RETRIES
+                logger.error(f"Error: {response.status_code} - {response.reason}")
+                if attempt == MAX_RETRIES:
+                    return None, None
+                wait_time = RETRY_DELAY * (2 ** (attempt - 1))
+                time.sleep(wait_time)
+                continue
             else:
                 logger.error(f"Error: {response.status_code} - {response.reason}")
                 if attempt == MAX_RETRIES:
@@ -159,7 +172,7 @@ def build_repo_queries(config_file):
     university_name = config["UNIVERSITY_NAME"]
     university_acronym = config["UNIVERSITY_ACRONYM"]
     university_email_domain = config["UNIVERSITY_EMAIL_DOMAIN"]
-    additional_queries = config["ADDITIONAL_QUERIES"]
+    additional_queries = config.get("ADDITIONAL_QUERIES", [])
 
     # Define search fields
     search_fields = ["in:name", "in:description", "in:readme", "in:tags"]
@@ -210,6 +223,7 @@ def search_repositories_with_queries(query_terms, headers):
                 params = None  # Parameters are only needed for the initial request
             else:
                 break
+            time.sleep(2)  # Stay within 30 req/min Search API limit
     return repositories
 
 
@@ -245,7 +259,7 @@ def build_org_queries(config_file):
     university_name = config["UNIVERSITY_NAME"]
     university_acronym = config["UNIVERSITY_ACRONYM"]
     university_email_domain = config["UNIVERSITY_EMAIL_DOMAIN"]
-    additional_queries = config["ADDITIONAL_QUERIES"]
+    additional_queries = config.get("ADDITIONAL_QUERIES", [])
 
     # Define search fields
     search_fields = ["in:name","in:login","in:description","in:company"]
@@ -294,7 +308,7 @@ def build_user_queries(config_file):
     university_name = config["UNIVERSITY_NAME"]
     university_acronym = config["UNIVERSITY_ACRONYM"]
     university_email_domain = config["UNIVERSITY_EMAIL_DOMAIN"]
-    additional_queries = config["ADDITIONAL_QUERIES"]
+    additional_queries = config.get("ADDITIONAL_QUERIES", [])
 
     # Define search fields for bio and company (applied to all terms)
     search_fields = ["in:name","in:login","in:bio","in:company"]
@@ -348,6 +362,7 @@ def search_users_with_queries(query_terms, headers):
                 params = None  # Parameters are only needed for the initial request
             else:
                 break
+            time.sleep(2)  # Stay within 30 req/min Search API limit
     return users
 
 
@@ -381,6 +396,7 @@ def search_organizations_with_queries(query_terms, headers):
                 params = None  # Parameters are only needed for the initial request
             else:
                 break
+            time.sleep(2)  # Stay within 30 req/min Search API limit
     return organizations
 
 
