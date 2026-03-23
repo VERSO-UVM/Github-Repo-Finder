@@ -1,0 +1,1118 @@
+{
+  "uvm-plaid": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "uvm-plaid",
+    "name": "UVM PLAID"
+  },
+  "FrietzeLabUVM": {
+    "blog": null,
+    "company": null,
+    "description": "Bioinformatics software, scripts, and analysis projects developed by the Frietze Lab",
+    "email": "jrboyd@uvm.edu",
+    "location": null,
+    "login": "FrietzeLabUVM",
+    "name": "Frietze Lab @ UVM"
+  },
+  "mec-lab": {
+    "blog": "http://www.meclab.org/",
+    "company": null,
+    "description": "Dr. Josh Bongard's research team at the University of Vermont",
+    "email": "meclabuvm@gmail.com",
+    "location": "Burlington Vermont",
+    "login": "mec-lab",
+    "name": "meclab - UVM"
+  },
+  "UVMHacks2025": {
+    "blog": null,
+    "company": null,
+    "description": "The 2nd Annual Hackathon at the University of Vermont!",
+    "email": null,
+    "location": "United States of America",
+    "login": "UVMHacks2025",
+    "name": "UVM Hacks 2025"
+  },
+  "PespeniLab": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "PespeniLab",
+    "name": "Pespeni Lab at UVM"
+  },
+  "UVM-SEGS-Lab": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "UVM-SEGS-Lab",
+    "name": "UVM SEGS Lab"
+  },
+  "uvm-applied-ann": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "uvm-applied-ann",
+    "name": "UVM ANN 2025"
+  },
+  "UVM-Campus-Puebla": {
+    "blog": null,
+    "company": null,
+    "description": "Comunidad Edu de GitHub para PrepaUVM Campus Puebla",
+    "email": "javier_diazg@my.uvm.edu.mx",
+    "location": "Mexico",
+    "login": "UVM-Campus-Puebla",
+    "name": "PrepaUVM-Campus Puebla-Academia"
+  },
+  "UVM-Linguistics": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-Linguistics",
+    "name": "UVM Linguistics"
+  },
+  "UVM-web": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-web",
+    "name": "UVM web"
+  },
+  "UVM-Salesforce": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-Salesforce",
+    "name": "UVM Salesforce"
+  },
+  "UVM-TRC": {
+    "blog": "https://www.uvm.edu/cems/trc",
+    "company": null,
+    "description": "University of Vermont Transportation Research Center",
+    "email": "trc@uvm.edu",
+    "location": "United States of America",
+    "login": "UVM-TRC",
+    "name": "UVM TRC"
+  },
+  "secfusion-uvm": {
+    "blog": "https://secfusion.io/",
+    "company": null,
+    "description": "Manage all your security findings through integration and orchestration via a single and easy to use platform.",
+    "email": "support@secfusion.io",
+    "location": "T\u00fcrkiye",
+    "login": "secfusion-uvm",
+    "name": "SECFusion UVM"
+  },
+  "UVM-CCN": {
+    "blog": "https://www.uvm.edu/ccn",
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "UVM-CCN",
+    "name": "UVM Center for Community News"
+  },
+  "PerfectUVM": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": "Belarus",
+    "login": "PerfectUVM",
+    "name": "PerfectUVM"
+  },
+  "uvm-cs": {
+    "blog": null,
+    "company": null,
+    "description": "UNOFFICIAL \u2013 UVM CS team",
+    "email": null,
+    "location": "United States of America",
+    "login": "uvm-cs",
+    "name": "UVM CS"
+  },
+  "uvm-cs-courses": {
+    "blog": null,
+    "company": null,
+    "description": "UNOFFICIAL - UVM CS Classrooms",
+    "email": null,
+    "location": "United States of America",
+    "login": "uvm-cs-courses",
+    "name": "UVM CS Courses"
+  },
+  "UVM-NCED-Lab": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-NCED-Lab",
+    "name": "UVM NCED Lab"
+  },
+  "Ingenerias-UVM-Villahermosa": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "Ingenerias-UVM-Villahermosa",
+    "name": "Ingenerias UVM Villahermosa"
+  },
+  "UVM-Systems-GmbH": {
+    "blog": "https://www.uvmsystems.com",
+    "company": null,
+    "description": "Urban Visualisation and Management",
+    "email": "office@uvmsystems.com",
+    "location": "Austria",
+    "login": "UVM-Systems-GmbH",
+    "name": "UVM Systems GmbH"
+  },
+  "UVM-BME-Deep-Learning": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-BME-Deep-Learning",
+    "name": "UVM BME Deep Learning"
+  },
+  "leiterkontor": {
+    "blog": "https://www.leiterkontor.de",
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": "Germany",
+    "login": "leiterkontor",
+    "name": "Leiterkontor UVM GmbH"
+  },
+  "scienceandhumanitylab": {
+    "blog": "https://scienceandhumanitylab.github.io",
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "scienceandhumanitylab",
+    "name": "UVM Science and Humanity Lab"
+  },
+  "teslauvm": {
+    "blog": "https://blog.uvm.edu/tesla/",
+    "company": null,
+    "description": "An energy systems research group at the University of Vermont",
+    "email": "tesla@uvm.edu",
+    "location": "Burlington, Vermont, USA",
+    "login": "teslauvm",
+    "name": "The Energy Systems Laboratory @ UVM"
+  },
+  "uvmcs120bf2019": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "uvmcs120bf2019",
+    "name": "UVM CS 120 B F2019"
+  },
+  "PrepaUVM-CampusPuebla": {
+    "blog": null,
+    "company": null,
+    "description": "Comunidad Edu de GitHub para la administraci\u00f3n de proyectos institucionales de la PrepaUVM Campus Puebla",
+    "email": "javier_diazg@my.uvm.edu.mx",
+    "location": null,
+    "login": "PrepaUVM-CampusPuebla",
+    "name": "PrepaUVM-Campus Puebla Institucionales/Administrativo"
+  },
+  "uvmcs120af2019": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "uvmcs120af2019",
+    "name": "UVM CS 120 A F2019"
+  },
+  "UVM-Rowangould-Lab": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "UVM-Rowangould-Lab",
+    "name": "Dr. Rowangould's Transportation Research Group at UVM"
+  },
+  "uvm": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvm",
+    "name": null
+  },
+  "uvmaero": {
+    "blog": "uvmaero.org",
+    "company": null,
+    "description": "UVM's Official Electric Vehicle Racing Club!",
+    "email": "uvmaero@gmail.com",
+    "location": "Burlington, Vermont",
+    "login": "uvmaero",
+    "name": "University of Vermont Alternative Energy Racing Organization"
+  },
+  "uvmcscrew": {
+    "blog": "https://cscrew.w3.uvm.edu/",
+    "company": null,
+    "description": "Computer Science Club at the University of Vermont!",
+    "email": "cscrew@uvm.edu",
+    "location": "United States of America",
+    "login": "uvmcscrew",
+    "name": "Computer Science Crew"
+  },
+  "uvmcs2300s2024": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2300s2024",
+    "name": null
+  },
+  "UVMCoyoacan": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMCoyoacan",
+    "name": null
+  },
+  "UVM-M52": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-M52",
+    "name": null
+  },
+  "uvmcs124f2022": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs124f2022",
+    "name": null
+  },
+  "uvmcs2240f2024": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2240f2024",
+    "name": null
+  },
+  "uvmcs120f2022": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs120f2022",
+    "name": null
+  },
+  "uvmcs2240s2024": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2240s2024",
+    "name": null
+  },
+  "uvmcs2300f2023": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2300f2023",
+    "name": null
+  },
+  "uvmcs2300s2025": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2300s2025",
+    "name": null
+  },
+  "uvmcs2240f2023": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2240f2023",
+    "name": null
+  },
+  "UVM-SAC": {
+    "blog": "https://thelynx.campuslabs.com/engage/organization/uvmsac",
+    "company": null,
+    "description": "",
+    "email": "sportsanalytics@uvm.edu",
+    "location": "United States of America",
+    "login": "UVM-SAC",
+    "name": "University of Vermont Sports Analytics Club"
+  },
+  "uvmcs124s2023": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "uvmcs124s2023",
+    "name": "University of Vermont CS 124 Spring 2023"
+  },
+  "uvmgen": {
+    "blog": "https://www.uvmgen.com/",
+    "company": null,
+    "description": "Methodology Focused Code Generator for UVM",
+    "email": "feedback@uvmgen.com",
+    "location": "United States of America",
+    "login": "uvmgen",
+    "name": "UVMGen"
+  },
+  "uvmcollab": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "uvmcollab",
+    "name": "uvmcollab"
+  },
+  "UVM-CS195-F22": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-CS195-F22",
+    "name": null
+  },
+  "uvmcs2300f2024": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2300f2024",
+    "name": null
+  },
+  "uvmcs2240s2025": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2240s2025",
+    "name": null
+  },
+  "uvm-neurobotics-lab": {
+    "blog": "uvm.edu/neurobotics",
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "uvm-neurobotics-lab",
+    "name": "University of Vermont Neurobotics Lab"
+  },
+  "uvmcs2300f2025": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2300f2025",
+    "name": null
+  },
+  "UVMHacks2026": {
+    "blog": null,
+    "company": null,
+    "description": "The third annual hackathon at the University of Vermont",
+    "email": null,
+    "location": null,
+    "login": "UVMHacks2026",
+    "name": "UVMHacks 2026"
+  },
+  "uvmcs120s2022": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs120s2022",
+    "name": null
+  },
+  "uvmcs120s2023": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs120s2023",
+    "name": null
+  },
+  "uvmcs2240f2025": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2240f2025",
+    "name": null
+  },
+  "uvmcs2300s2026": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2300s2026",
+    "name": null
+  },
+  "UVMUFSC": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMUFSC",
+    "name": null
+  },
+  "UVMCS120BS2020": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMCS120BS2020",
+    "name": null
+  },
+  "uvmcs2240s2026": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs2240s2026",
+    "name": null
+  },
+  "UVM-System": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-System",
+    "name": null
+  },
+  "UVMCS120F2018": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMCS120F2018",
+    "name": null
+  },
+  "uvm-ohpr": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "uvm-ohpr",
+    "name": "Office of Health Promotion Research, University of Vermont"
+  },
+  "UVMCS120BS2019": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMCS120BS2019",
+    "name": null
+  },
+  "uvmdebug": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmdebug",
+    "name": null
+  },
+  "uvmcs120f2021": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs120f2021",
+    "name": null
+  },
+  "uvmdevelopers": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmdevelopers",
+    "name": null
+  },
+  "UVM-AIRLAB": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-AIRLAB",
+    "name": null
+  },
+  "UVMarketing": {
+    "blog": null,
+    "company": null,
+    "description": "Repo for UV Marketing Bots and lovely Stuff. ",
+    "email": "ivan@uvmarketing.com.mx",
+    "location": null,
+    "login": "UVMarketing",
+    "name": "UV Marketing"
+  },
+  "UVMCS120AS2020": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMCS120AS2020",
+    "name": null
+  },
+  "UVMMC-MedicalPhysics": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMMC-MedicalPhysics",
+    "name": null
+  },
+  "UVM-CCSP": {
+    "blog": "https://compsec.w3.uvm.edu/",
+    "company": null,
+    "description": "The Center for Computer Security and Privacy at UVM. ",
+    "email": "compsec@uvm.edu",
+    "location": "United States of America",
+    "login": "UVM-CCSP",
+    "name": "Center for Computer Security and Privacy"
+  },
+  "UVMCS120F2020": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMCS120F2020",
+    "name": null
+  },
+  "UVMHNCVPHPopHealth": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMHNCVPHPopHealth",
+    "name": null
+  },
+  "uvmcs120s2021": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmcs120s2021",
+    "name": null
+  },
+  "UVMCS008": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMCS008",
+    "name": null
+  },
+  "uvm-oop": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvm-oop",
+    "name": null
+  },
+  "uvm759gvpj": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvm759gvpj",
+    "name": null
+  },
+  "uvmoniter": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmoniter",
+    "name": null
+  },
+  "UVMatter-App": {
+    "blog": null,
+    "company": null,
+    "description": "Standard workflow UV editor",
+    "email": null,
+    "location": null,
+    "login": "UVMatter-App",
+    "name": "UV Matter"
+  },
+  "UVMSanRafael": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMSanRafael",
+    "name": null
+  },
+  "uvm-mx": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvm-mx",
+    "name": null
+  },
+  "uvmdatascience": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmdatascience",
+    "name": null
+  },
+  "UVMRP": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMRP",
+    "name": null
+  },
+  "uvmlabs": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmlabs",
+    "name": null
+  },
+  "uvm-cs295a-s22": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvm-cs295a-s22",
+    "name": null
+  },
+  "UVMCS120AS2019": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMCS120AS2019",
+    "name": null
+  },
+  "UVM99": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM99",
+    "name": null
+  },
+  "UVMCODES": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMCODES",
+    "name": null
+  },
+  "UVM-SEED-TEAM-03": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-SEED-TEAM-03",
+    "name": null
+  },
+  "UVMCoyo0323i": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMCoyo0323i",
+    "name": null
+  },
+  "uvm-ws": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvm-ws",
+    "name": null
+  },
+  "uvmapper": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmapper",
+    "name": null
+  },
+  "UVMHealth": {
+    "blog": "https://www.uvmhealth.org/",
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "UVMHealth",
+    "name": "The University of Vermont Health Network"
+  },
+  "UVM-Projects": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-Projects",
+    "name": null
+  },
+  "uvm-cs205": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvm-cs205",
+    "name": null
+  },
+  "UVMLog": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMLog",
+    "name": null
+  },
+  "uvmhacks2027": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmhacks2027",
+    "name": null
+  },
+  "uvmena": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmena",
+    "name": null
+  },
+  "UVM007": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM007",
+    "name": null
+  },
+  "UVMAirLabTrack": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMAirLabTrack",
+    "name": null
+  },
+  "uvm-DIPF": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvm-DIPF",
+    "name": null
+  },
+  "UVMUVMUVM": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMUVMUVM",
+    "name": null
+  },
+  "uvm-data-vis": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvm-data-vis",
+    "name": null
+  },
+  "uvm-tsi": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": null,
+    "location": null,
+    "login": "uvm-tsi",
+    "name": null
+  },
+  "uvm-lean-team": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvm-lean-team",
+    "name": null
+  },
+  "UVM-DA": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-DA",
+    "name": null
+  },
+  "UVML": {
+    "blog": "www.uvml.my",
+    "company": null,
+    "description": "A software development & HRDF Certified Training Centre",
+    "email": "jivan@uvml.my",
+    "location": "Malaysia",
+    "login": "UVML",
+    "name": "UVML Consultancy / PLT"
+  },
+  "UVMCS120": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVMCS120",
+    "name": null
+  },
+  "UVM-BME-Courses": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-BME-Courses",
+    "name": null
+  },
+  "UVM-fusion": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-fusion",
+    "name": null
+  },
+  "UVM-Reynosa": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "UVM-Reynosa",
+    "name": null
+  },
+  "uvmafia": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmafia",
+    "name": null
+  },
+  "uvmroma": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvmroma",
+    "name": null
+  },
+  "uvm-study": {
+    "blog": null,
+    "company": null,
+    "description": null,
+    "email": null,
+    "location": null,
+    "login": "uvm-study",
+    "name": null
+  },
+  "pyuvm": {
+    "blog": null,
+    "company": null,
+    "description": "The UVM IEEE 1800.2 Standard implemented in Python",
+    "email": "ray@raysalemi.com",
+    "location": null,
+    "login": "pyuvm",
+    "name": "pyuvm"
+  },
+  "methods-pl-maple-lab": {
+    "blog": "https://uvm.edu/~maple",
+    "company": null,
+    "description": "Repository for MaPLE Lab@UVM",
+    "email": "maple-lab@uvm.edu",
+    "location": null,
+    "login": "methods-pl-maple-lab",
+    "name": "Methods and PL for Experimentation (MaPLE) Lab"
+  },
+  "cabservicesag": {
+    "blog": "https://www.valencia.ch",
+    "company": null,
+    "description": "TYPO3, PHP, jQuery, Cordova, PhoneGap, Dojo, Linux, Microsoft uvm.",
+    "email": "help@valencia.ch",
+    "location": "Basel, Switzerland",
+    "login": "cabservicesag",
+    "name": "Valencia Kommunikation"
+  },
+  "fbn-dd": {
+    "blog": "https://www.fbn-dd.de/",
+    "company": null,
+    "description": "Wir sind ein Bildungsverein und bieten Wissen rund um Internet, Computer und neue Medien, Netzwerktechnik uvm. aus der digitalen Medienwelt",
+    "email": "kontakt@fbn-dd.de",
+    "location": "Dresden, Germany",
+    "login": "fbn-dd",
+    "name": "F\u00f6rderverein B\u00fcrgernetz Dresden e.V."
+  },
+  "Feiert-ag": {
+    "blog": "https://www.feiert.ag",
+    "company": null,
+    "description": "Unvergessliche Feiern organisieren. Kostenfrei, schnell und einfach. F\u00fcr Geburtstag, Hochzeit, Sommerfest, uvm. Ein Projekt von @DOEBELING Projektb\u00fcro",
+    "email": "support@feiert.ag",
+    "location": "Germany",
+    "login": "Feiert-ag",
+    "name": "Feiert.ag Eventkommunikation"
+  },
+  "Game-Dev-Club-UVM": {
+    "blog": null,
+    "company": null,
+    "description": "",
+    "email": "rbeattie@uvm.edu",
+    "location": null,
+    "login": "Game-Dev-Club-UVM",
+    "name": "Game Dev Club - University of Vermont "
+  },
+  "GlassBrainLab": {
+    "blog": "uvm.edu/~brainlab",
+    "company": null,
+    "description": "The Glass Brain Lab at the University of Vermont",
+    "email": null,
+    "location": "Burlington, VT",
+    "login": "GlassBrainLab",
+    "name": "Glass Brain Lab"
+  },
+  "Heard-and-Understood": {
+    "blog": "https://vermontconversationlab.com/",
+    "company": null,
+    "description": "Heard & Understood is a University of Vermont affiliated research group on approaches to measure and improve communication through machine learning",
+    "email": null,
+    "location": null,
+    "login": "Heard-and-Understood",
+    "name": "Heard & Understood"
+  },
+  "emilybrucelab": {
+    "blog": "www.emilybrucelab.com",
+    "company": null,
+    "description": "We are a research laboratory studying RNA viruses at the University of Vermont",
+    "email": "emily.bruce@med.uvm.edu",
+    "location": null,
+    "login": "emilybrucelab",
+    "name": "Emily Bruce Lab"
+  },
+  "The-Vermont-Cynic": {
+    "blog": "https://vtcynic.com/",
+    "company": null,
+    "description": "A home for web and multimedia projects for The Vermont Cynic, the University of Vermont's independent, student-run newspaper.",
+    "email": "cynicwebeditor@gmail.com",
+    "location": null,
+    "login": "The-Vermont-Cynic",
+    "name": "The Vermont Cynic"
+  },
+  "lawrencedebateunion": {
+    "blog": "lawrencedebateunion.com",
+    "company": null,
+    "description": "Lawrence Debate Union of the University of Vermont | Speaking truth to power since 1899 | Located at Huber House (475 Main Street)",
+    "email": null,
+    "location": "Burlington, VT",
+    "login": "lawrencedebateunion",
+    "name": "Lawrence Debate Union"
+  }
+}

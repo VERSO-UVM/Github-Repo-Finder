@@ -2,7 +2,7 @@
 .claude/
 
 # Intermediate data files (DB has all needed data)
-Data/db/*.json
+# Data/db/*.json
 Data/db/*.csv
 
 # Python
