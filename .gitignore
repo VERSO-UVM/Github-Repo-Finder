@@ -1,0 +1,14 @@
+# Claude Code config
+.claude/
+
+# Intermediate data files (DB has all needed data)
+Data/db/*.json
+Data/db/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
