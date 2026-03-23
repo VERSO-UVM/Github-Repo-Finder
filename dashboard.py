@@ -48,6 +48,15 @@ def load_data(db_path):
     conn = sqlite3.connect(db_path)
     repo_df = pd.read_sql_query("SELECT * FROM repositories", conn)
 
+    # Filter to classified UVM Vermont repos if classification exists
+    classification_csv = f"Data/db/repo_classification_claude.csv"
+    if os.path.exists(classification_csv):
+        class_df = pd.read_csv(classification_csv)
+        uvm_repos = set(class_df[class_df["label"] == "uvm_vermont"]["full_name"])
+        before = len(repo_df)
+        repo_df = repo_df[repo_df["full_name"].isin(uvm_repos)]
+        print(f"  Filtered to {len(repo_df)} UVM Vermont repos (from {before} total)")
+
     try:
         org_df = pd.read_sql_query(
             "SELECT login, url AS org_url, email AS org_email FROM organizations", conn
