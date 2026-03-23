@@ -161,6 +161,24 @@ The dashboard includes:
 - **Star count histogram** — distribution of repositories by star count
 - **Repository explorer** — searchable, sortable table of up to 500 repositories with per-repo feature badges
 
+## Deploy Dashboard with GitHub Pages
+
+This repository now includes an automated GitHub Pages workflow at `.github/workflows/pages.yml`.
+
+It publishes:
+- `index.html` (entry page)
+- `dashboard_UVM.html` (dashboard)
+
+### One-time GitHub setup
+1. Push these changes to the `main` branch.
+2. In GitHub, open **Settings → Pages**.
+3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+
+After that, every push to `main` will automatically redeploy the dashboard.
+
+Your site URL will be:
+`https://<your-github-username>.github.io/Github-Repo-Finder/`
+
 
 
 
